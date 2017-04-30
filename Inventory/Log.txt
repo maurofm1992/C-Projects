@@ -1,0 +1,46 @@
+
+
+----------Item Entry# 1----------
+
+Name:   Mercurial
+Brand:  Nike
+ID:     150
+QTY:    200
+Cost:   60.00
+Price:  79.99
+
+----------Item Entry# 2----------
+
+Name:   Tiempo
+Brand:  Puma
+ID:     470
+QTY:    100
+Cost:   60.00
+Price:  80.00
+
+----------Item Entry# 3----------
+
+Name:   CR7 fly
+Brand:  Nike
+ID:     400
+QTY:    200
+Cost:   90.00
+Price:  125.99
+
+----------Item Entry# 4----------
+
+Name:   Zlatan
+Brand:  Umbro
+ID:     350
+QTY:    150
+Cost:   45.00
+Price:  500.00
+
+----------Item Entry# 5----------
+
+Name:   suarez
+Brand:  luis
+ID:     500
+QTY:    250
+Cost:   36.00
+Price:  88.00
